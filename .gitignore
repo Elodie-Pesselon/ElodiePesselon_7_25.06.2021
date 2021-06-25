@@ -1,3 +1,10 @@
+.gitignore
 */node_modules
 backend/dist/server.dev.js
 backend/dist/app.dev.js
+backend/models/dist/user.dev.js
+backend/models/dist/post.dev.js
+backend/models/dist/comment.dev.js
+backend/migrations/dist/20210625122303-create-comment.dev.js
+backend/migrations/dist/20210625122018-create-post.dev.js
+backend/migrations/dist/20210625121434-create-user.dev.js
